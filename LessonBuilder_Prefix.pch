@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'LessonBuilder' target in the 'LessonBuilder' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
